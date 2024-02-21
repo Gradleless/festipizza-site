@@ -16,7 +16,7 @@
     </NavUl>
 </Navbar>
 
-<main>
+<main class="min-h-screen">
     <slot></slot>
 </main>
 
