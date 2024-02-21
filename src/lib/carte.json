@@ -1,0 +1,130 @@
+{
+    "Pizza": [
+        {
+            "nom": "Pizza Margherita",
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.peanutblossom.com%2Fwp-content%2Fuploads%2F2022%2F07%2Fcheesepizza-10.jpg&f=1&nofb=1&ipt=ecb30c9b6d6987eaf12a5d22c2ceb886d2de4336a00a2be48885db47b97ed090&ipo=images",
+            "description": "Tomates, mozzarella, basilic",
+            "prix": 8.99
+        },
+        {
+            "nom": "Pizza Pepperoni",
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fleitesculinaria.com%2Fwp-content%2Fuploads%2F2023%2F04%2Fnew-york-style-pizza.jpg&f=1&nofb=1&ipt=ed7700b36c8d942cd234b0924665ae3d39cf14d78fe4673fa9a3e163086e3062&ipo=images",
+            "description": "Pepperoni, sauce tomate, mozzarella",
+            "prix": 9.99
+        },
+        {
+            "nom": "Pizza Quattro Stagioni",
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.sxcRKAhIzwB9U3whQr4nbAHaLH%26pid%3DApi&f=1&ipt=c548203e654e944a7c5f3e82a5a6590b2409f48e172f2ddd13c55e1fe652d9f4&ipo=images",
+            "description": "Jambon, champignons, artichauts, olives",
+            "prix": 10.99
+        },
+        {
+            "nom": "Pizza Prosciutto e Funghi",
+            "image": "https://www.example.com/pizza_prosciutto_funghi.jpg",
+            "description": "Jambon, champignons, sauce tomate, mozzarella",
+            "prix": 10.99
+        },
+        {
+            "nom": "Pizza Diavola",
+            "image": "https://www.example.com/pizza_diavola.jpg",
+            "description": "Saucisse piquante, poivrons, oignons",
+            "prix": 9.99
+        }
+    ],
+    "Pâtes": [
+        {
+            "nom": "Spaghetti à la bolognaise",
+            "image": "https://www.example.com/spaghetti_bolognaise.jpg",
+            "description": "Spaghetti, sauce à la viande hachée, parmesan",
+            "prix": 11.99
+        },
+        {
+            "nom": "Fettuccine Alfredo",
+            "image": "https://www.example.com/fettuccine_alfredo.jpg",
+            "description": "Fettuccine, sauce Alfredo à la crème, parmesan",
+            "prix": 12.99
+        },
+        {
+            "nom": "Lasagnes",
+            "image": "https://www.example.com/lasagnes.jpg",
+            "description": "Pâtes, sauce tomate, viande hachée, béchamel",
+            "prix": 13.99
+        },
+        {
+            "nom": "Penne Arrabiata",
+            "image": "https://www.example.com/penne_arrabiata.jpg",
+            "description": "Penne, sauce tomate piquante, parmesan",
+            "prix": 11.99
+        },
+        {
+            "nom": "Raviolis aux champignons",
+            "image": "https://www.example.com/raviolis_champignons.jpg",
+            "description": "Raviolis farcis aux champignons, sauce à la crème",
+            "prix": 12.99
+        }
+    ],
+    "Boissons": [
+        {
+            "nom": "Coca-Cola",
+            "image": "https://www.example.com/coca_cola.jpg",
+            "description": "Soda pétillant",
+            "prix": 2.49
+        },
+        {
+            "nom": "Eau minérale",
+            "image": "https://www.example.com/eau_minerale.jpg",
+            "description": "Eau naturelle",
+            "prix": 1.99
+        },
+        {
+            "nom": "Jus d'orange",
+            "image": "https://www.example.com/jus_orange.jpg",
+            "description": "Jus pressé d'oranges fraîches",
+            "prix": 3.49
+        },
+        {
+            "nom": "Café",
+            "image": "https://www.example.com/cafe.jpg",
+            "description": "Café noir",
+            "prix": 1.99
+        },
+        {
+            "nom": "Thé",
+            "image": "https://www.example.com/the.jpg",
+            "description": "Thé chaud",
+            "prix": 2.49
+        }
+    ],
+    "Desserts": [
+        {
+            "nom": "Tiramisu",
+            "image": "https://www.example.com/tiramisu.jpg",
+            "description": "Biscuits à la cuillère, mascarpone, café",
+            "prix": 7.99
+        },
+        {
+            "nom": "Gâteau au chocolat",
+            "image": "https://www.example.com/gateau_chocolat.jpg",
+            "description": "Gâteau au chocolat moelleux",
+            "prix": 6.99
+        },
+        {
+            "nom": "Tarte aux fruits",
+            "image": "https://www.example.com/tarte_fruits.jpg",
+            "description": "Tarte aux fruits frais de saison",
+            "prix": 8.99
+        },
+        {
+            "nom": "Crème brûlée",
+            "image": "https://www.example.com/creme_brulee.jpg",
+            "description": "Crème anglaise, sucre caramélisé",
+            "prix": 5.99
+        },
+        {
+            "nom": "Glace à la vanille",
+            "image": "https://www.example.com/glace_vanille.jpg",
+            "description": "Glace à la vanille crémeuse",
+            "prix": 4.99
+        }
+    ]
+}
