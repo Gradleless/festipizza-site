@@ -2,7 +2,7 @@
   import { Card, Listgroup, ListgroupItem } from 'flowbite-svelte';
 </script>
 
-<div class="flex justify-center p-4 mt-14">
+<div class="flex justify-center items-center min-h-screen">
   <Card class="w-full max-w-md">
     <h5 class="text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Contactez-nous</h5>
     <p class="font-normal text-gray-700 dark:text-gray-400 mb-4">N'hésitez pas à nous contacter pour toute question ou information.</p>
