@@ -1,6 +1,8 @@
 <script>
     import "../app.css";
     import { Footer, FooterCopyright, FooterLink, FooterLinkGroup, Navbar, NavBrand, NavHamburger, NavUl, NavLi, FooterBrand } from 'flowbite-svelte';
+    import { inject } from "@vercel/analytics";
+    inject();
 </script>
 
 <Navbar color="green" >
