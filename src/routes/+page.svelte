@@ -1,5 +1,5 @@
 <script lang="ts">
-    import { FloatingLabelInput, P, Toast, Card, Heading, Button, Pagination } from 'flowbite-svelte';
+    import { P, Heading, Button } from 'flowbite-svelte';
     import { ArrowRightOutline } from 'flowbite-svelte-icons';
     import Carte from './carte/carte.svelte';
 </script>  
