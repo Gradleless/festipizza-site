@@ -1,8 +1,10 @@
 <script>
     import "../app.css";
     import { Footer, FooterCopyright, FooterLink, FooterLinkGroup, Navbar, NavBrand, NavHamburger, NavUl, NavLi, FooterBrand } from 'flowbite-svelte';
+    import { page } from '$app/stores';
 </script>
 
+{#if $page.error == null}
 <Navbar color="green" >
     <NavBrand href="/">
         <img src="/favicon.jpg" class="me-3 h-6 sm:h-9" alt="Festi pizza Logo" />
@@ -15,11 +17,13 @@
         <NavLi href="/contact">Contact</NavLi>
     </NavUl>
 </Navbar>
+{/if}
 
 <main class="min-h-screen">
     <slot></slot>
 </main>
 
+{#if $page.error == null}
 <div class="mt-12">
     <Footer footerType="logo">
         <div class="sm:flex sm:items-center sm:justify-between">
@@ -35,3 +39,4 @@
         <FooterCopyright href="/" by="Festi pizza -" class="dark:hover:no-underline" aClass="no-underline"/>
     </Footer>
 </div>
+{/if}
