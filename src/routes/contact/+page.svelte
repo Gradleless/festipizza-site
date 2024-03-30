@@ -40,7 +40,7 @@
           <div class="ml-3">
             <p class="text-base font-medium text-gray-900 dark:text-white">Adresse</p>
             <p class="text-sm font-normal text-gray-500 dark:text-gray-400 dark:hover:text-green-400"><a href="https://maps.app.goo.gl/aTYDXtWDKDiB11MD7">15 Rue Pierre Ogée, 59112 Annœullin</a></p>
-            <Popover class="text-sm font-light w-96 " title="Nous sommes ici !" triggeredBy="#address" on:show={norman_thavaud} defaultClass=""><div id="map" class="h-64 rounded-b-md"></div></Popover>
+            <Popover class="text-sm font-light max-sm:w-screen md:w-96" title="Nous sommes ici !" triggeredBy="#address" on:show={norman_thavaud} defaultClass=""><div id="map" class="h-64 rounded-b-md"></div></Popover>
           </div>
         </div>
       </ListgroupItem>
