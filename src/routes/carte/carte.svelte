@@ -7,7 +7,7 @@
         name: string;
         price: number;
         description: string;
-        image: string;
+        image: string | null;
         isNew: boolean;
     }
 
@@ -23,7 +23,7 @@
     function getCarte() {
         for (let [cat, items] of Object.entries(data)) {
             let catItems: CarteItem[] = [];
-
+            
             for(let item of items) {
                 catItems = [...catItems, { name: item.nom, price: item.prix, description: item.description, image: item.image, isNew: true}];
             }
