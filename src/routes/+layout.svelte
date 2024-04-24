@@ -35,7 +35,7 @@
 <Navbar color="green" >
     <NavBrand href="/">
         <img src="/favicon.jpg" class="me-3 h-6 sm:h-9" alt="Festi pizza Logo" />
-        <title class="self-center whitespace-nowrap text-xl font-semibold dark:text-white">Festi pizza</title>
+        <span class="self-center whitespace-nowrap text-xl font-semibold dark:text-white">Festi pizza</span>
     </NavBrand>
     <NavHamburger  />
     <NavUl nonActiveClass="text-gray-700 hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-green-700 dark:text-gray-400 md:dark:hover:text-green-400 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">
