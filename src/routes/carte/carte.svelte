@@ -85,7 +85,6 @@
 <div class="grid md:grid-cols-3 md:mx-32">
     {#each dataCarte as data (data.category)}
         {#each data.items as { name, price, description, image, isNew } (name)}
-
             <div class="card mx-5" class:scale-transition={isNew}>
                 <Card img={image} class="my-5 object-contain" href="#card" size="sm">
                     <h6 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">{name}</h6>
