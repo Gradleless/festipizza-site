@@ -9,13 +9,13 @@
 
     <meta property="og:title" content="Festi pizza - Pizzeria et restaurant de pâtes à Annoeullin">
     <meta property="og:description" content="Découvrez les saveurs authentiques de l'Italie au cœur d'Annoeullin, avec notre pizzeria et restaurant de pâtes. Des pizzas fraîches, des pâtes al dente et une sélection de boissons rafraîchissantes vous attendent chez nous.">
-    <meta property="og:image" content="/favicon.jpg">
+    <meta property="og:image" content="/favicon.webp">
     <meta property="og:url" content="https://festipizza-site.vercel.app">
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Festi pizza - Pizzeria et restaurant de pâtes à Annoeullin">
     <meta name="twitter:description" content="Découvrez les saveurs authentiques de l'Italie au cœur d'Annoeullin, avec notre pizzeria et restaurant de pâtes. Des pizzas fraîches, des pâtes al dente et une sélection de boissons rafraîchissantes vous attendent chez nous.">
-    <meta name="twitter:image" content="/favicon.jpg">
+    <meta name="twitter:image" content="/favicon.webp">
 
     <!-- Les keywords ne sont plus vraiment utiles de nos jours, mais ça ne coûte rien de les mettre quand même... -->
     <meta name="keywords" content="pizza, pizzeria, restaurant, pâtes, Annoeullin, saveurs, Italie, rapide">
@@ -26,7 +26,7 @@
 {#if $page.error == null}
 <Navbar color="green" >
     <NavBrand href="/">
-        <img src="/favicon.jpg" class="me-3 h-6 sm:h-9" alt="Festi pizza Logo" />
+        <img src="/favicon.webp" class="me-3 h-6 sm:h-9" alt="Festi pizza Logo" />
         <span class="self-center whitespace-nowrap text-xl font-semibold dark:text-white">Festi pizza</span>
     </NavBrand>
     <NavHamburger  />
@@ -46,7 +46,7 @@
 <div class="mt-12">
     <Footer footerType="logo">
         <div class="sm:flex sm:items-center sm:justify-between">
-            <FooterBrand href="/" src="/favicon.jpg" alt="Festi pizza" name="Festi pizza" />
+            <FooterBrand href="/" src="/favicon.webp" alt="Festi pizza" name="Festi pizza" />
             <FooterLinkGroup ulClass="flex flex-wrap items-center mb-6 text-sm text-gray-500 sm:mb-0 dark:text-gray-400">
                 <FooterLink href="/" liClass="me-4 last:me-0 md:me-6 transition ease-in dark:hover:text-green-700" aClass="no-underline">Accueil</FooterLink>
                 <FooterLink href="/carte" liClass="me-4 last:me-0 md:me-6 transition ease-in dark:hover:text-green-700" aClass="no-underline">Carte</FooterLink> 
