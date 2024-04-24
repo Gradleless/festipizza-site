@@ -88,8 +88,8 @@
 
             <div class="card mx-5" class:scale-transition={isNew}>
                 <Card img={image} class="my-5 object-contain" href="#card" size="sm">
-                    <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">{name}</h5>
-                    <h4 class="mb-2 text-xl font-bold tracking-tight text-green-500 dark:text-green-400">{price} €</h4>
+                    <p class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">{name}</p>
+                    <p class="mb-2 text-xl font-bold tracking-tight text-green-500 dark:text-green-400">{price} €</p>
                     <p class="h-8 text-gray-700 dark:text-gray-400 leading-tight">{description}</p>
                 </Card>
             </div>

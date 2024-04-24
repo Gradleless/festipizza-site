@@ -23,7 +23,7 @@
 
 <div class="flex justify-center items-center min-h-screen">
   <Card class="w-full max-w-md">
-    <h5 class="text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Contactez-nous</h5>
+    <p class="text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Contactez-nous</p>
     <p class="font-normal text-gray-700 dark:text-gray-400 mb-4">N'hésitez pas à nous contacter pour toute question ou information.</p>
     
     <Listgroup>
