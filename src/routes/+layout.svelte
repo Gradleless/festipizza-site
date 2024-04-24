@@ -19,11 +19,16 @@
     <meta property="og:description" content="Découvrez les saveurs authentiques de l'Italie au cœur d'Annoeullin, avec notre pizzeria et restaurant de pâtes. Des pizzas fraîches, des pâtes al dente et une sélection de boissons rafraîchissantes vous attendent chez nous.">
     <meta property="og:image" content="/favicon.jpg">
     <meta property="og:url" content="https://festipizza-site.vercel.app">
+
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Festi pizza - Pizzeria et restaurant de pâtes à Annoeullin">
     <meta name="twitter:description" content="Découvrez les saveurs authentiques de l'Italie au cœur d'Annoeullin, avec notre pizzeria et restaurant de pâtes. Des pizzas fraîches, des pâtes al dente et une sélection de boissons rafraîchissantes vous attendent chez nous.">
     <meta name="twitter:image" content="/favicon.jpg">
 
+    <!-- Les keywords ne sont plus vraiment utiles de nos jours, mais ça ne coûte rien de les mettre quand même... -->
+    <meta name="keywords" content="pizza, pizzeria, restaurant, pâtes, Annoeullin, saveurs, Italie, rapide">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://festipizza-site.vercel.app">
 </svelte:head>
 
 {#if $page.error == null}
