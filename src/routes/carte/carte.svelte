@@ -65,7 +65,7 @@
     });
 </script>  
 
-<Heading class="text-center dark:text-green-500 mb-6 mt-16 text-4xl" id="card">Notre carte</Heading>
+<Heading tag="h2" class="text-center dark:text-green-500 mb-6 mt-16 text-4xl" id="card">Notre carte</Heading>
 
 <div class="align-middle md:mx-96 my-6 max-sm:mx-8">
     <FloatingLabelInput style="outlined" id="floating_outlined" name="floating_outlined" type="text" color="green">
