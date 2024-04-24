@@ -5,15 +5,7 @@
 </script>
 
 <svelte:head>
-    <meta name="description" content="Découvrez les saveurs authentiques de l'Italie au cœur d'Annoeullin, avec notre pizzeria et restaurant de pâtes. Des pizzas fraîches, des pâtes al dente et une sélection de boissons rafraîchissantes vous attendent chez nous.">
-
-    <meta name="description" content="Situé dans le charmant Nord de la France, notre restaurant de restauration rapide à Annoeullin vous offre une expérience gastronomique italienne inoubliable. Des pizzas croustillantes, des pâtes savoureuses et des boissons pour tous les goûts vous attendent.">
-
-    <meta name="description" content="Envie d'une pause gourmande à Annoeullin? Venez savourer nos délicieuses pizzas et nos pâtes fraîches dans notre restaurant de restauration rapide. Avec un large choix de boissons, vous trouverez sûrement de quoi étancher votre soif.">
-
-    <meta name="description" content="Plongez dans l'ambiance chaleureuse de l'Italie à Annoeullin avec notre pizzeria et restaurant de pâtes. Des recettes traditionnelles préparées avec soin, des boissons fraîches et un accueil convivial vous attendent pour un repas délicieux et rapide.">
-
-    <meta name="description" content="Bienvenue dans notre oasis italienne au cœur d'Annoeullin! Venez découvrir notre sélection de pizzas artisanales, de pâtes fraîches et de boissons désaltérantes. Un voyage gustatif rapide et délicieux vous attend dans notre restaurant de restauration rapide.">
+    <meta name="description" content="Découvrez les saveurs authentiques à d'Annoeullin, avec notre pizzeria et restaurant de pâtes. Des pizzas fraîches, des pâtes et une sélection de boissons.">
 
     <meta property="og:title" content="Festi pizza - Pizzeria et restaurant de pâtes à Annoeullin">
     <meta property="og:description" content="Découvrez les saveurs authentiques de l'Italie au cœur d'Annoeullin, avec notre pizzeria et restaurant de pâtes. Des pizzas fraîches, des pâtes al dente et une sélection de boissons rafraîchissantes vous attendent chez nous.">
