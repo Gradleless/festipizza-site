@@ -5,7 +5,7 @@
 </script>
 
 <svelte:head>
-    <meta name="description" content="Découvrez les saveurs authentiques à d'Annoeullin, avec notre pizzeria et restaurant de pâtes. Des pizzas fraîches, des pâtes et une sélection de boissons.">
+    <meta name="description" content="Découvrez les saveurs authentiques à Annoeullin, avec notre pizzeria. Des pizzas fraîches, des pâtes sur notre menu / carte.">
 
     <meta property="og:title" content="Festi pizza - Pizzeria et restaurant de pâtes à Annoeullin">
     <meta property="og:description" content="Découvrez les saveurs authentiques de l'Italie au cœur d'Annoeullin, avec notre pizzeria et restaurant de pâtes. Des pizzas fraîches, des pâtes al dente et une sélection de boissons rafraîchissantes vous attendent chez nous.">
